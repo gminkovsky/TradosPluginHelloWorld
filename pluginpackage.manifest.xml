@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginPackage xmlns="http://www.sdl.com/Plugins/PluginPackage/1.0">
+  <PlugInName>HelloWorldPlugin</PlugInName>
+  <Version>1.0.0.1</Version>
+  <Description>HelloWorld Plugin to test</Description>
+  <Author>Gregory Minkovsky</Author>
+  <RequiredProduct name="HelloWorldPlugin" minversion="17.0" maxversion="17.9"/>
+</PluginPackage>
